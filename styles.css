@@ -28,3 +28,9 @@ div.picture{
 text-align: center;
 }
 
+.btn_style {
+    font-family: 'Open Sans';
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.5em;
+  }
