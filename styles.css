@@ -2,6 +2,7 @@
 h1 {
 color:rgb(66, 84, 15);
 text-transform: uppercase;
+font-family: 'Open Sans';
 font-weight:700;
 background-color: rgb(254, 238, 163);
 text-align: center;
@@ -10,10 +11,15 @@ text-align: center;
 h2 {
     color:rgb(66, 84, 15);
     font-weight: 700;
+    padding: 30px, 30px, 20px;
+    font-family: 'Open Sans';
+    
+    
 }
 
 body {
 background-color:rgb(201,218,188);
+font-family: 'Open Sans';
 
 
 }
@@ -21,3 +27,4 @@ background-color:rgb(201,218,188);
 div.picture{
 text-align: center;
 }
+
